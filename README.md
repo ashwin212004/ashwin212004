@@ -20,7 +20,7 @@
 📱 My Projects
 
 🌟🎮 **Multiplayer Bingo Game**  
-👉 [GitHub Repo](https://github.com/ashwin212004/bingo-multiplayer)
+👉 [GitHub Repo](https://github.com/ashwin212004/bingo)
 
 🔥 **Swapzone - OLX Clone**  
 👉 [GitHub Repo](https://github.com/ashwin212004/swapzone)
