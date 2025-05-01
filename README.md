@@ -8,7 +8,9 @@
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 🔥 About Me
+
 👀 Interested in Web Development, Frontend Development, Machine Learning, and building Real-Time Applications
+
 💞️ Looking to collaborate on Web Development, real-time apps, and open-source projects
 
 📱 My Projects  
